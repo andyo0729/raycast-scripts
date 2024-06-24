@@ -14,3 +14,5 @@
 1. Click on the Scripts tab
 1. Expand Script Commands
 1. Add alias or record a hotkey
+
+[Mutedeck Swagger](http://localhost:3491/swagger-ui)
